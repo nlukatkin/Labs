@@ -1,0 +1,10 @@
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\XE\source\repos\nlukatkin\Lab\Lab1\Main\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
